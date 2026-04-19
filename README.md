@@ -3,12 +3,26 @@
 
 ---
 
-## 🌟 About Me
-- 🎓 Software Engineering Student  
-- 📊 Passionate Data Scientist  
-- 🌱 Currently learning MERN Stack + Machine Learning  
-- 💡 Interested in Data Analysis, AI & Real-world Problem Solving  
-- 🎯 Goal: Become an Expert Data Scientist & Full Stack Developer  
+## 🧑‍💻 About Me
+
+```python
+class DataScientist:
+    def __init__(self):
+        self.name         = "Muhammad Ahmad Raza"
+        self.university   = "MAJU — University of Karachi"
+        self.degree       = "Software Engineering"
+        self.location     = "Karachi, Pakistan 🇵🇰"
+        self.interests    = ["Data Science", "Machine Learning", "Deep Learning", "AI"]
+        self.currently    = "Learning ML & Deep Learning 🌱"
+        self.goal         = "Become an Expert Data Scientist & AI Engineer 🎯"
+        self.fun_fact     = "I turn coffee ☕ into data insights 📊"
+
+    def say_hi(self):
+        print("Thanks for dropping by! Let's connect and build something amazing.")
+
+me = DataScientist()
+me.say_hi()
+```
 
 ---
 
