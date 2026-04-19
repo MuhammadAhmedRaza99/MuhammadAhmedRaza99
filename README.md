@@ -59,8 +59,8 @@ me.say_hi()
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: your-link-here  
-- 📧 Email: your-email-here  
+- 💼 LinkedIn:https://www.linkedin.com/in/ahmed-raza-b1986a354 
+- 📧 Email:mahmedraza574@gmail.com
 - 🌐 Portfolio: coming soon  
 
 ---
