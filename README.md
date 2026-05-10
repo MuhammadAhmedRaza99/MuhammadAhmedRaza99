@@ -62,7 +62,7 @@ me.say_hi()
 ## 📫 Connect With Me
 - 💼 LinkedIn:https://www.linkedin.com/in/ahmed-raza-b1986a354 
 - 📧 Email:mahmedraza574@gmail.com
-- 🌐 Portfolio: coming soon  
+- 🌐 Portfolio:https://ahmadrazadev1.netlify.app/
 
 ---
 
